@@ -4,4 +4,4 @@ As an Application Security Engineer, I am deeply passionate about fortifying app
 
 I'm always eager to connect with others who share a passion for application and product security.
 
-Check out [my app/prodsec reference](https://github.com/1B05H1N/appsec-prodsec-reference) if you have time!
+Check out [the appsec/prodsec reference](https://github.com/1B05H1N/appsec-prodsec-reference) if you have time!
