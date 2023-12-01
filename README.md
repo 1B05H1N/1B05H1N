@@ -1,6 +1,7 @@
-# Hey there, I'm İbrahim !
+# Hey there, I'm İbrahim!
 
-I'm an Application Security Engineer with a passion for securing applications against modern threats and vulnerabilities. 
+As an Application Security Engineer, I am deeply passionate about fortifying applications against contemporary threats and vulnerabilities. 
 
-Always happy to connect with anyone passionate about application/product security.
+I'm always eager to connect with others who share a passion for application and product security.
 
+Feel free to check out my work at [my GitHub repository](https://github.com/1B05H1N/appsec-prodsec-reference) whenever you have time!
